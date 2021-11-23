@@ -85,10 +85,7 @@
             <div class="card-0">
               <div class="card-body text-justify">
                 <h3>Tentang Kami</h3>
-                <h6>Perpustakaan Universitas Nusa Putra merupakan Perpustakaan perguruan tinggi, Universitas Nusa Putra yang berdiri sejak tahun 2021.</h6>
-    
-                <h6> awalnya terdapat 3 orang mahasiswa teknik informatika yang ingin mengembangkan perpustakaan ini dikarenakan fakultas teknik informatika, universitas nusa putra belum mempunyai perpustakaan. </h6>
-                <h6><b>3 orang mahasiswa yang berhasil mengembangkan perpustakaan ini,  ialah :</b></h6>
+                <h6>Perpustakaan Universitas Nusa Putra .</h6>
                 <ul>
                   <li>Muhammad Ridwanullah</li>
                 </ul>
