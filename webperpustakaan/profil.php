@@ -113,7 +113,7 @@
   <!--awal footer-->
     <footer class="Copyright">
       <div class="text-white bg-primary text-center pt-2 pb-2">
-        Copyright @2021 - UAS Pemograman Berorientasi Objek
+        Copyright @2021 - UTS 
       </div>
     </footer>
   <!--akhir footer-->
