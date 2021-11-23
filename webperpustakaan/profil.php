@@ -91,8 +91,6 @@
                 <h6><b>3 orang mahasiswa yang berhasil mengembangkan perpustakaan ini,  ialah :</b></h6>
                 <ul>
                   <li>Muhammad Ridwanullah</li>
-                  <li>Khadijah Kibtiyah</li>
-                  <li>Wendi</li>
                 </ul>
               </div>
           </div>
